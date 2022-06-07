@@ -1,0 +1,5 @@
+---
+# defaults file for vector-role
+vector_version: "0.21.1"
+vector_os_arh: "x86_64"
+vector_workdir: "/home/vagrant/vector"
